@@ -1,6 +1,6 @@
 ﻿# Tell don't ask
 
-Una kata refactor heredado, enfocado en la violación del principio tell no ask y del modelo de dominio anémico.
+Una kata para su refactorización de código heredado, enfocado en la violación del principio tell don't ask y del modelo de dominio anémico.
 
 ## Instrucciones
 
